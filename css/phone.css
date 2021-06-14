@@ -1,0 +1,61 @@
+@media(max-width: 700px){
+    .homeslidermanuleft ul li{
+        font-size: 9px;
+        padding: 10px 0px;
+        width: 49px;
+        visibility: hidden;
+        float: none;
+        position: absolute;
+    }
+
+    .slidercontanetitle {
+        font-size: 8px;
+        color: #000;
+        width: 181px;
+        text-align: center;
+        line-height: 21px;
+    }
+    .slidercontane {
+        width: 200px;
+        margin-left:0px;
+        margin-top: 0px;
+    }
+    .contaner {
+        width: 372px;
+        margin:auto;
+    }
+    #homeslider{
+        background-size: cover;
+        background-position: center;
+
+    }
+    .homesliderlogo img{
+        width: 100px;
+        margin-right: 0px;
+    }
+    .slidercontane p{
+        font-size: 9px;
+        color: #2b2a2a;
+        width: 181px;
+        text-align: center;
+        margin-top: 4px;
+    }
+    .homeslidermanuleft{
+        width: 189px;
+        margin-bottom: 0px;
+    }
+    .Sing\&Singbutton li{
+        width: 282px;
+        float: none!important;
+        margin-right: 0px!important;
+        margin-bottom: 26px;
+    }
+    .Sing\&Singbutton li a{
+        width: 50px;
+    }
+
+
+
+
+}
+
